@@ -8,7 +8,7 @@ describe('CocktailOverviewComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ CocktailOverviewComponent ]
+      declarations: [CocktailOverviewComponent],
     })
     .compileComponents();
   });
